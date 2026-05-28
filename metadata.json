@@ -1,0 +1,6 @@
+{
+  "name": "Panel de Ventas Interactivo",
+  "description": "Un panel analítico avanzado e interactivo para visualizar y explorar el rendimiento de ventas con filtros dinámicos, métricas en tiempo real y gráficos responsivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
